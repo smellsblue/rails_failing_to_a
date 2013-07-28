@@ -1,7 +1,13 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
 
 one:
-  description: MyString
+  id: 1
+  description: An Example
 
 two:
-  description: MyString
+  id: 2
+  description: An Example
+
+three:
+  id: 3
+  description: Something Else
